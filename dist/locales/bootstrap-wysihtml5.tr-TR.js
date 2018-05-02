@@ -7,12 +7,16 @@
             normal: "Normal",
             h1: "Başlık 1",
             h2: "Başlık 2",
-            h3: "Başlık 3"
+            h3: "Başlık 3",
+            h4: "Başlık 4",
+            h5: "Başlık 5",
+            h6: "Başlık 6"
         },
         emphasis: {
             bold: "Kalın",
             italic: "İtalik",
-            underline: "Altı Çizili"
+            underline: "Altı Çizili",
+            small: 'Küçük'
         },
         lists: {
             unordered: "Sırasız Liste",
